@@ -4,7 +4,7 @@ icon: home
 ---
 # Welcome to Oshin OS
 
-**[Oshin OS](https://oshinos.org)** is an **Ezarch Linux** based free, safe, and open source operating system for your kids and yourself that allows you to stay safe in the world of technology without compromising on our daily requirements. Oshin OS will operate to ensure your safety, comfort, accessibility, and exploration opportunities. We offer a secure operating system for everyone in this digital world.
+**[Oshin OS](https://oshinos.org)** is an **Ezarch Linux** based free, safe, and open source operating system for your kids and yourself that allows you to stay safe in the world of technology without compromising on our daily requirements. Oshin OS will operate to ensure your safety, comfort, accessibility, and exploration opportunities. We offer a secure operating system for everyone in this digital world
 
 ![](static/oshin-readme-laptops.png)
 
