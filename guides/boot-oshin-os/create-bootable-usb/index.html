@@ -5,7 +5,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.770135412863">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.770136797925">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -32,11 +32,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../../resources/css/retype.css?v=3.5.0.770135412863" rel="stylesheet">
+    <link href="../../../resources/css/retype.css?v=3.5.0.770136797925" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.5.0.770135412863" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.5.0.770136797925" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.5.0.770135412863" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.5.0.770136797925" data-turbo-eval="false" defer></script>
 
     <!-- Add content to _includes/head.html to include here -->
 </head>
@@ -220,7 +220,21 @@
 <doc-tabs>
 <doc-tab v-cloak id="etcher">
 <template #title>Etcher</template>
-<p>This method helps you create a bootable USB using Etcher.</p>
+<doc-anchor-target id="etcher-linux-windows-mac">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#etcher-linux-windows-mac">#</doc-anchor-trigger>
+        <span>Etcher (Linux, Windows, MAC)</span>
+    </h2>
+</doc-anchor-target>
+<p><a href="https://etcher.balena.io/">Balena Etcher</a>, is a popular application used for flashing operating system images to storage media, such as USB drives and SD cards. It is widely used for its user-friendly interface and reliability. It ensures that you do not accidentally write to your hard drives and helps in creating a reliable bootable USB.</p>
+<ul>
+<li>The first step is to download balena etcher from their <a href="https://etcher.balena.io/">official website</a></li>
+<li>The next step is to launch <strong>Etcher.</strong></li>
+<li>Now, select the ISO image of Oshin OS that you have downloaded.</li>
+<li>Moving on, insert the USB and carefully select it.</li>
+<li>Now, click on <code v-pre>flash</code> and wait for the application to finish. Have a cup of coffee while you wait <span class="docs-emoji">&#x2615;</span></li>
+<li>This will create a bootable USB of Oshin OS, that you can use to boot and install Oshin on your desired system.</li>
+</ul>
 </doc-tab>
 <doc-tab v-cloak id="rufus">
 <template #title>Rufus</template>
