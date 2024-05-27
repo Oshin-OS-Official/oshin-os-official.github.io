@@ -14,4 +14,4 @@ Videos coming soon. :+1:
 Videos coming soon. :+1:
 ===
 
-For further questions, visit our [FAQs Section](faq.md)
+For further questions, visit our [FAQs Section](https://oshin-os-official.github.io/faq/)
