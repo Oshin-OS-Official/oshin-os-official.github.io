@@ -11,4 +11,4 @@ First, you need to create a bootable USB. If you have not created the bootable U
 # The initial steps
 Once you boot into Oshin OS, you will be greeted with the below screen. Login into the OS by giving the live user credentials ``oshin`` for both username and password. 
 
-![](static/oshin/lockscreen.png)
+![A](../static/lockscreen.png)
