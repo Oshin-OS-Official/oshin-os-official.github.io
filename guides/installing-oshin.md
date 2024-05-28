@@ -43,3 +43,5 @@ Now, Create a user account for yourself by filling the form below and click on N
 You will be given a summary of the entire installation. If you are satisfied with it, click on ``install``
 
 ![*Summary*](../static/oshin/summary.png)
+
+Once done, your installation will start. Wait for it to complete and you should be greeted with the ``All Done`` screen. Once you see it, you can click on done and shutdown the system, remove the USB and remove the USB and start the device to start using Oshin OS as your daily driver.
