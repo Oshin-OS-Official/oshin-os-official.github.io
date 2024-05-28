@@ -17,8 +17,9 @@ To create a bootable USB of **Oshin OS** to install on your system, choose any o
 
 +++ Rufus
 !!!info Tip
-If you are a beginner to linux, we suggest you use Ethcher.
+If you are a beginner, we suggest you use Ethcher.
 !!!
+## Rufus (Windows)
 
 According to the [official website](https://rufus.ie/), Rufus is a utility tool, that helps in creating and formatting bootable USB flash drives. It offers many more advanced options to the user to format their USBs. To create a bootable USB using ``rufus``, select the **Oshin OS ISO** that you downloaded, then select the USB stick that you want to format and hit ``START``. This should create the bootable USB that you can utilize to install or try **Oshin OS**.
 
