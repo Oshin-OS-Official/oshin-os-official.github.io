@@ -3,7 +3,7 @@ output: .retype
 url: oshin-os-official.github.io
 branding:
   title: Oshin OS
-  label: Wiki
+  label: Docs
 links:
 
 - text: Getting Started
